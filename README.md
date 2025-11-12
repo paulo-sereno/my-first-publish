@@ -29,3 +29,7 @@ my-first-publish/
 - [ ] Criar repositório no GitHub
 - [ ] Fazer commits iniciais
 - [ ] Publicar alterações
+
+## Como Contribuir
+
+## Licença
